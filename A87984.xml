@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the navy vvith the Earle of Warwick, Lord Admirall: from Hellevoyt Sluice, Novemb. 24. 1648. Being a narrative of his proceedings, in reducing the revolted ships with the Prince: viz. The Constant Warwick, carrying 32 guns. The Love, 38 guns. The Hinde, 18 guns. The Satisfaction, 28 guns. A ship laden with sugars. A catch, and other small vessels. Also, the present condition of the Prince, Duke of Yorke, Prince Rupert, and the rest of the cavallerie in Holland, and from France.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87984</idno>
+            <idno type="STC">Wing L1532</idno>
+            <idno type="STC">Thomason E473_28</idno>
+            <idno type="STC">ESTC R205286</idno>
+            <idno type="EEBO-CITATION">99864701</idno>
+            <idno type="PROQUEST">99864701</idno>
+            <idno type="VID">116933</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116933)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E473[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the navy vvith the Earle of Warwick, Lord Admirall: from Hellevoyt Sluice, Novemb. 24. 1648. Being a narrative of his proceedings, in reducing the revolted ships with the Prince: viz. The Constant Warwick, carrying 32 guns. The Love, 38 guns. The Hinde, 18 guns. The Satisfaction, 28 guns. A ship laden with sugars. A catch, and other small vessels. Also, the present condition of the Prince, Duke of Yorke, Prince Rupert, and the rest of the cavallerie in Holland, and from France.</title>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Lawrence Blaikloke, and are to be sold in the Old-Bayly,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "The Constant Warwick .. and other small vessels." are bracketed on the title page.</note>
+                  <note>Annotation on Thomason copy: "Nou: 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116933:1" rendition="simple:additions"/>
+            <p>A LETTER FROM The Navy vvith the Earle of <hi>WARWICK,</hi> Lord ADMIRALL: <hi>From</hi> HELLEVOYT SLUICE, <hi>Novemb.</hi> 24. 1648.</p>
+            <p>Being a Narrative of his Proceedings, in reducing the Revolted Ships with the PRINCE: <hi>viz.</hi>
+               <list>
+                  <item>The <hi>Conſtant Warwick,</hi> carrying 32 Guns.</item>
+                  <item>The <hi>Love,</hi> 38 Guns.</item>
+                  <item>The <hi>Hinde,</hi> 18 Guns.</item>
+                  <item>The <hi>Satisfaction,</hi> 28 Guns.</item>
+                  <item>A Ship laden with Sugars.</item>
+                  <item>A Catch, and other ſmall Veſſels.</item>
+               </list>
+            </p>
+            <p>ALSO, The preſent Condition of the PRINCE, Duke of YORKE, Prince RUPERT, and the reſt of the Cavallerie in HOLLAND, and from FRANCE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Lawrence Blaikloke,</hi> and are to be ſold in the <hi>Old-Bayly.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:116933:2"/>
+            <head>From on Board the St. <hi>George</hi> riding at Anchor at <hi>Hellevoyt</hi> Sluice, <hi>Nov.</hi> 24. 1648.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N my laſt, being of the 14<hi rend="sup">th</hi>. current, I gave you ſomething an obſcure Rela<g ref="char:EOLhyphen"/>tion of our and the Enemies Actions: But now having the advantage of time and conveyance, I ſhall give you the re<g ref="char:EOLhyphen"/>collection of a bad memory in a little perfecter forme.</p>
+            <p>Upon the fourth current, Newes came to us that the Revolters had gotten all their Winter Proviſions, their men, and abundance of Gentry, on board each Ship, and had appointed ſeverall Frigots, from <hi>Oaſtend</hi> and other places, a day of the Moneth to come to the Harbours mouth, intending upon ſight of them to ſet ſaile, being in hope of the States Men of War their Convoy out to Sea.</p>
+            <p>Upon this Information, a man was preſently ſent to <hi>Oaſtend,</hi> who told us, that there were Iriſh-men victu<g ref="char:EOLhyphen"/>aling there. Upon this, the Lord Admirall adviſed with his Councell what was expedient to be done: they ordered every Ship with which of the Revolters they ſhould fight at Sea, expecting their comming every houre, which was deſired by us; and yet this newes did ſomewhat ſtartle ſome. But when we ſuppoſed them in their higheſt condition, then was there the moſt diſ<g ref="char:EOLhyphen"/>content,
+<pb n="4" facs="tcp:116933:3"/>by reaſon of Prince <hi>Ruperts</hi> being made Ad<g ref="char:EOLhyphen"/>mirall (as ſuddenly was apparent;) for the next day, being the fifth, (a fatall day for Traitors) the <hi>Constant Warwick,</hi> a Frigot of 32 Guns came from them, which they intended ſhould have maintained the reſt, having new rigged and tallowed her. This Veſſell we only fea<g ref="char:EOLhyphen"/>red would eſcape and injure the Kingdome, becauſe ſhe ſailes beſt of any in <hi>England;</hi> But God prevented their intentions in this, and ſince that day they have not pro<g ref="char:EOLhyphen"/>ſpered.</p>
+            <p>The Lord Admirall having intimation from this, and other Veſſels, that more intended to deſert them, if there might be an advantage of their ſecure comming from them, His Lordſhip adviſed with his Councell what ought to be done in order thereunto, who concluded it might be advantagious to go up with his whole Fleet, and Anchor board and board with them.</p>
+            <p>Accordingly, upon the eighth current, in the after<g ref="char:EOLhyphen"/>noon, our foreſaile was looſed, and guns fired for warning to the Fleet to weigh Anchor (although his Lordſhip had made many ſcruples, and ſeemed to oppoſe it) but having lien long in one place, our Cable being bu<g ref="char:EOLhyphen"/>ried with ſand, 'twas ſomewhat late ere we could get our Anchors up, and the winde being alſo at <hi>North eaſt,</hi> ſo that we could not get up to them that night, but came to an anchor ſhort, moſt of our ſmaller ſhips anchoring very neer them, ſo that they diſcourſed with them all that night, in which night they put their land ſouldiers on board; But the <hi>Hind</hi> a Ship of eighteen Guns, cut her Cables and came to his Lordſhip, receiving a ſhot through her Hull, but hurt none; The next morning being the ninth, I obſerved their fore-ſailes looſe,
+<pb n="5" facs="tcp:116933:3"/>and Anchors apeeke, ready to weigh, when they ſaw us weigh (halfe the <hi>Dutch</hi> Fleet were now gone) and as we heard, would fire upon us. When we came up up<g ref="char:EOLhyphen"/>on the flood againe, in the afternoone, we weighed, they weighed, and the <hi>Dutch</hi> weighed, all plying up the river. Our Frigots were round their Admirall, endeavouring to provoke him to fire (as Prince <hi>Rupert</hi> vapoured he would) but they then would not take notice of affronts. There was ſo little winde that we could not make our Ships worke, for our Reer-Admirall runne a ground, and one of theirs.</p>
+            <p>In ſtead of firing upon us, they all haſtened to gaine the Sluice, which we might have prevented had there not been ſlackneſſe in ſome—We had one Fri<g ref="char:EOLhyphen"/>got in their Admiralls way, and lay before the Sluice mouth, where our Vice-Admirall might have been alſo, if ordered, and then the Valiant Prince could not have runne his head into that hole, as preſently after<g ref="char:EOLhyphen"/>wards he did, by carrying a Hawſer on ſhore, and the <hi>Guinea</hi> Frigot alſo, the reſt being all at an Anchor as neere the Peere as they could get, and the <hi>Dutch</hi> as neer to them as they could get, and our Fleet mixed with them both, all the three Fleets being within a ſmall compaſſe.</p>
+            <p>In the night they cut the Cables of five more (which we have ſince taken up) and haled them all but one (ve<g ref="char:EOLhyphen"/>ry valiantly) into the Sluice, where one lay thwart the others ſterns.</p>
+            <p>Our men were mightily vexed to ſee ſuch brave Ships of their Kingdomes, haled into ſuch a place to be ſpoy<g ref="char:EOLhyphen"/>led, and might not have the liberty to fire upon them. All the meanes in the world were uſed to provoke them
+<pb n="6" facs="tcp:116933:4"/>to fire but one Gun, but we could not prevaile to make them breake the peace that the <hi>Hollander</hi> lay to keep.</p>
+            <p>The next Morning being the 10. aſſoone as it was light, I thought I ſhould have ſeene ſome ſcuffle, for the <hi>Love</hi> (a Ship of 38 Guns) weighed and ran right for the Sluice: One of our Ships layd her croſſe the Hauſer, forcing her to an Anchor, ſome of the Souldiers on board her cryed fire, but immediately ſhe yeelded. After her, a <hi>Prize</hi> they had weighed and ſtood for the Sluice, we laid her croſſe the Hawſer and tooke her. There was a third run her ſelfe on ſhore, to whom we ſent three Fri<g ref="char:EOLhyphen"/>gots, and divers Boats full of men, who yeelded upon condition that the Captaine and his whole Company ſhould go on ſhoare with Bag and baggage: But in the in<g ref="char:EOLhyphen"/>terim they ſend Boats laden with men to relieve her, and our men chaſed them all to the Peere, and there Prince <hi>Rupert</hi> was buſie in building Forts, himſelf &amp; his men flinging the Turffes, and Stones, and Musket bullets at our men, but durſt not fire ſo much as a Piſtol. This Ship is called the <hi>Satisfaction,</hi> a Navy-ſhip of 28 Guns, now a float again, and our Reare-Admirall alſo, who hath taken no harme, a thing much admired. We have taken in all, the <hi>Conſtant Warwick,</hi> a Frigot of 32 Guns; The <hi>Hinde,</hi> a Frigot of 18 Guns; The <hi>Love,</hi> a Ship of 38 Guns; The <hi>Satisfaction,</hi> a Ship of 28 Guns; A Ship laden with Sugar, and a Catch. Since this they have rai<g ref="char:EOLhyphen"/>ſed two Forts, and planted Guns in them, (our Fleet ri<g ref="char:EOLhyphen"/>ding within command of them, ſome within Piſtol ſhot) have built a Court-of-Guard houſe. If the Towne were their owne they could not keepe a more ſtrict guard. They take all men priſoners that come upon the Iſland, take our Letters, and all things that come over Land to
+<pb n="7" facs="tcp:116933:4"/>us. The Lord Admirall hath ſent to the States to know if they will allow a Foreigne Prince to raiſe workes to debarre the Engliſh Fleet in their Harbour, but no anſwer is yet returned.</p>
+            <p>They have now taken the ſailes from moſt of their yards, are taking out the Guns, and have haled in the fifth Ship that lay croſſe. Theſe Ships have neer two hundred Braſſe Guns in them, which we apprehend they will ſell, for 'tis thought ſome of theſe Ships backs are broke.</p>
+            <p>They have one Ship of fifty two Guns, and three of forty Guns apeece, the <hi>Guinea</hi> Frigot, which carries a<g ref="char:EOLhyphen"/>bove thirtie, The <hi>Blackmoore Lady,</hi> twenty eight, The <hi>Roe-buck,</hi> twelve Guns, one ſmall <hi>Pincke,</hi> two Hoyes, and two Catches, and all hailed into the Sluice.</p>
+            <p>The Lord Admirall is now ſending Frigots to Sea, towards the <hi>Weſt,</hi> and <hi>North-coast,</hi> to ferrit the <hi>Iriſh,</hi> and every day expecteth the Parliaments Agent from the <hi>Hague</hi> to give an accompt of his Meſſage from the States, and then I ſuppoſe he will have ſome thoughts homewards, if liberty may not be gotten to uſe our en<g ref="char:EOLhyphen"/>deavours to reduce the Ships.</p>
+            <p>By the carrying on of things between the States and his Lordſhip, I apprehend they have ſome minde to quarrel, which I ſhall be better able to judge of by their anſwer when it comes. If we ſhould receive but one ſhot from the Towne, I ſuppoſe the Lord Admirall would fire the Ships which would burne downe the Towne.</p>
+            <p>We have loſt three good advantages, two whereof were knowne and omitted, which makes men grumble.
+<pb n="8" facs="tcp:116933:5"/>The Prince is well againe, and at the <hi>Hague,</hi> the Duke of <hi>Yorke</hi> is ſtill at the <hi>Brill,</hi> who was ill, but eſcaped the Pox Maſter <hi>Crofts</hi> gave the Lord Admirall a viſit. Ma<g ref="char:EOLhyphen"/>ſter of the Princes horſe, who came lately from <hi>France,</hi> ſayes things looke there with an Engliſh face.</p>
+            <closer>
+               <dateline>
+                  <hi>Hellivoit</hi>-Sluice. <date>Nov. 24. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>G. M.</signed> 
+               <dateline>
+                  <date>Novemb. 25. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
